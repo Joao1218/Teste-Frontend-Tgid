@@ -1,61 +1,53 @@
 {
   "produtos": [
-    {
-      "id": "f095",
-      "image": "camiseta.png",
-      "title": "camiseta",
-      "description": "1234",
-      "isCompleted": false
-    },
-    {
-      "id": "3cf4",
-      "image": "shorts.png",
-      "title": "shorts",
-      "description": "1234",
-      "isCompleted": false
-    },
-    {
-      "id": "ee8b",
-      "image": "moletom.png",
-      "title": "blusa",
-      "description": "1",
-      "isCompleted": false
-    },
-    {
-      "id": "504b",
-      "image": "calca.png",
-      "title": "calça",
-      "description": "2",
-      "isCompleted": false
-    },
-    {
-      "id": "f723",
-      "image": "meia.png",
-      "title": "meia",
-      "description": "1",
-      "isCompleted": false
-    },
-    {
-      "id": "7c7a",
-      "image": "camisa.png",
-      "title": "camisa",
-      "description": "1",
-      "isCompleted": false
-    },
-    {
-      "id": "5b31",
-      "image": "luva.png",
-      "title": "luva",
-      "description": "1",
-      "isCompleted": false
-    },
-    {
-      "id": "db2e",
-      "image": "jaqueta.png",
-      "title": "jaqueta",
-      "description": "1",
-      "isCompleted": false
-    }
-  ],
+  {
+    "id": "f095",
+    "image": "camiseta.png",
+    "title": "Camiseta",
+    "description": "Camiseta 100% algodão, confortável e ideal para o dia a dia."
+  },
+  {
+    "id": "3cf4",
+    "image": "shorts.png",
+    "title": "Shorts",
+    "description": "Shorts esportivo leve, com tecido respirável para atividades físicas."
+  },
+  {
+    "id": "ee8b",
+    "image": "moletom.png",
+    "title": "Blusa de Moletom",
+    "description": "Blusa de moletom com capuz, perfeita para dias mais frios."
+  },
+  {
+    "id": "504b",
+    "image": "calca.png",
+    "title": "Calça",
+    "description": "Calça jeans slim fit, resistente e moderna para todas as ocasiões."
+  },
+  {
+    "id": "f723",
+    "image": "meia.png",
+    "title": "Meia",
+    "description": "Par de meias cano médio, feitas com tecido macio e durável."
+  },
+  {
+    "id": "7c7a",
+    "image": "camisa.png",
+    "title": "Camisa",
+    "description": "Camisa social de manga longa, elegante e confortável para o trabalho."
+  },
+  {
+    "id": "5b31",
+    "image": "luva.png",
+    "title": "Luva",
+    "description": "Luva térmica, ideal para proteger as mãos em dias de frio intenso."
+  },
+  {
+    "id": "db2e",
+    "image": "jaqueta.png",
+    "title": "Jaqueta",
+    "description": "Jaqueta impermeável, com zíper frontal e bolsos laterais."
+  }
+],
   "ShoppingCart": []
 }
